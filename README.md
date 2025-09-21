@@ -71,6 +71,7 @@ https://interion00.co.kr/15
 🥉 2024 SKHU 창업 아이디어 경진대회 장려상
 
 🥈 2025 SKHU 소프트웨어 경진대회 은상 - 세상의 모든 AI 활용법, Showtok
+
 https://github.com/Showtok
 
 
