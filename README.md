@@ -41,7 +41,7 @@ https://interion00.co.kr/15
   
   https://github.com/Showtok
 
-  🥉 2025 SKHU IT 경진대회 동상
+  🥉 2025 SKHU IT 경진대회 동상 - 기억을 기술로 잇다, EternalTalk
   
   https://github.com/EternalTalk-kw
 
