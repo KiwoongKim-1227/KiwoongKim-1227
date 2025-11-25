@@ -20,6 +20,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 🐱 About Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:opkiwoong@gmail.com)](opkiwoong@gmail.com)
+<a href="https://www.instagram.com/k_w00ng1227" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
  
   
 
