@@ -28,6 +28,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 (노션 링크 업로드)
 
+
 외 13개(호스팅 만료)
 
 
