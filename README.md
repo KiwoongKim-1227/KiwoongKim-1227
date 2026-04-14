@@ -46,5 +46,8 @@ A developer who thinks, researches, creates, and connects to practical realizati
   
   https://github.com/EternalTalk-kw
 
+  🥈 2026 GDGoC 우수상 - LastCup
+  https://github.com/Lastcup-official
+
 
 ..
