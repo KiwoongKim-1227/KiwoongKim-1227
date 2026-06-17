@@ -46,7 +46,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
   
   https://github.com/EternalTalk-kw
 
-  🥈 2025 GDGoC 활동 연계 프로젝트 - 더 나은 강의 커뮤니티 서비스, SKHU LINK
+  🥈 2025 GDGoC 활동 연계 프로젝트 우수상 - 더 나은 강의 커뮤니티 서비스, SKHU LINK
   
   https://github.com/SKHU-LINK
 
