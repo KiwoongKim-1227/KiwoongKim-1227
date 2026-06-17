@@ -46,6 +46,8 @@ A developer who thinks, researches, creates, and connects to practical realizati
   
   https://github.com/EternalTalk-kw
 
+  🥈 2025 GDGoC 활동 연계 프로젝트 - 더 나은 강의 커뮤니티 서비스, SKHU LINK
+
   🥈 2026 GDGoC TripleS 우수상 - 관리하긴 싫고 알고는 싶은 사람들을 위해, LastCup
   
   https://github.com/Lastcup-official
