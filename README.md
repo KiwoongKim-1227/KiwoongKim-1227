@@ -27,8 +27,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 🖥️Homepage Outsourced List
 
-(노션 링크 업로드.)
-
+https://www.notion.so/2023-382ac2f66a0e80a08afbef016cf13bc9?source=copy_link
 
 외 13개(호스팅 만료)
 
