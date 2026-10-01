@@ -25,11 +25,9 @@ A developer who thinks, researches, creates, and connects to practical realizati
  
   
 
-🖥️Homepage Outsourced List
+🖥️portfolio
 
-https://www.notion.so/2023-382ac2f66a0e80a08afbef016cf13bc9?source=copy_link
-외 2개
-
+https://kiwoong-kim.pages.dev/
 
 
 🏆 Awards
